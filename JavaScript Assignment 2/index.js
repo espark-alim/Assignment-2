@@ -52,3 +52,4 @@ function object(key, value) {
   object("fname", "Muhammad"); // { fname: "Muhammad" }
   object("lname", "Ali"); // { lname: "Ali" }
 
+ok
